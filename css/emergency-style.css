@@ -250,7 +250,7 @@
 
   .custom-navbar {
     background: #ffffff;
-    border-top: 5px solid #29ca8e;
+    border-top: 5px solid #298aca;
     border-bottom: 0;
     -webkit-box-shadow: 0 1px 30px rgba(0, 0, 0, 0.1);
     -moz-box-shadow: 0 1px 30px rgba(0, 0, 0, 0.1);
@@ -301,7 +301,7 @@
   }
 
   .custom-navbar .nav li a:hover {
-    background-color: #29ad6b;
+    background-color: #3029ad;
     color: #ffffff;
   }
 
@@ -678,7 +678,7 @@
   -----------------------------------------*/
 
   #contact {
-    background: #4a0647;
+    background: #033f02;
   }
 
   #contact h2 {
